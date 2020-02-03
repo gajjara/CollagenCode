@@ -1,0 +1,25 @@
+Filepath|Min|Max|Mean|Variance|Standard_Deviation|Pixel_Size_X|Pixel_Size_Y|DataType
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp1 (Andor)C1.tif|154|260|208.560329437256|138.121085700622|11.7524927441212|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp1 (Andor) (LUTs)C1.tif|0|65535|33731.6869049072|52795890.5642869|7266.07807309328|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp1 (Coolsnap)C1.tif|1408|1808|1591.54678381963|1475.15834397568|38.4077901469959|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp1 (Coolsnap) (LUTs)C1.tif|0|65520|30058.5663682582|39578290.4926107|6291.12791895147|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp2 (Andor)C1.tif|155|263|206.058071136475|130.343303616192|11.4167991843683|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp2 (Andor) (LUTs)C1.tif|0|65535|30981.8351516724|47993851.1670627|6927.75946226936|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp2 (Coolsnap)C1.tif|1392|3312|1581.71517462423|1548.24464815691|39.3477400641627|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp2 (Coolsnap) (LUTs)C1.tif|0|65520|6466.83646109637|1798786.91240708|1341.18861925051|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp3 (Andor)C1.tif|157|260|210.641506195068|122.78010874841|11.080618608562|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp3 (Andor) (LUTs)C1.tif|0|65535|34129.5572013855|49704842.1917084|7050.16611093018|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp3 (Coolsnap)C1.tif|1424|3280|1612.71766136163|1832.88319382128|42.8121851091634|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp3 (Coolsnap) (LUTs)C1.tif|0|65520|6654.53777630416|2281607.51777829|1510.49909559003|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp4 (Andor)C1.tif|136|285|199.728385925293|271.318674220435|16.4717538295239|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp4 (Andor) (LUTs)C1.tif|0|65535|28029.2848930359|52487498.1164889|7244.82560980517|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp4 (Coolsnap)C1.tif|1360|1792|1567.72619363395|1547.91194430781|39.3435120993006|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp4 (Coolsnap) (LUTs)C1.tif|0|65520|31499.8182029177|35606566.9261923|5967.12384035997|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp5 (Andor)C1.tif|154|261|208.316024780273|128.308728191565|11.3273442691376|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp5 (Andor) (LUTs)C1.tif|0|65535|33266.7955245972|48132103.6287949|6937.73043788781|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp5 (Coolsnap)C1.tif|1392|1808|1586.09718169761|1508.98379178795|38.8456405763626|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp5 (Coolsnap) (LUTs)C1.tif|0|65520|30566.2567418214|37432227.6539972|6118.18826565489|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp6 (Andor)C1.tif|48644|60663|59674.5566329956|327046.204586918|571.87953677931|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp6 (Andor) (LUTs)C1.tif|0|65535|60144.8986740112|9723408.87249517|3118.23810388097|512|512|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp6 (Coolsnap)C1.tif|17488|30016|25140.7540229885|4396664.71067147|2096.82252722339|1040|1392|uint16
+/Users/Anuj/Desktop/CollagenExperiments_Tiff_Images/Exp6 (Coolsnap) (LUTs)C1.tif|0|65520|40015.1158598585|120256325.074892|10966.1444945291|1040|1392|uint16

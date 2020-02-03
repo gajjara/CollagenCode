@@ -1,0 +1,38 @@
+filepath1_andor = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp1 (Andor).nd2';
+filepath1_coolsnap = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp1 (Coolsnap).nd2';
+filepath2_andor = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp2 (Andor).nd2';
+filepath2_coolsnap = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp2 (Coolsnap).nd2';
+filepath3_andor = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp3 (Andor).nd2';
+filepath3_coolsnap = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp3 (Coolsnap).nd2';
+filepath4_andor = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp4 (Andor).nd2';
+filepath4_coolsnap = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp4 (Coolsnap).nd2';
+filepath5_andor = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp5 (Andor).nd2';
+filepath5_coolsnap = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp5 (Coolsnap).nd2';
+filepath6_andor = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp6 (Andor).nd2';
+filepath6_coolsnap = '/Users/Anuj/Desktop/CollagenMonomerExperiment/Exp6 (Coolsnap).nd2';
+
+img1_andor = nd2read(filepath1_andor);
+img1_coolsnap= nd2read(filepath1_coolsnap);
+img2_andor = nd2read(filepath2_andor);
+img2_coolsnap= nd2read(filepath2_coolsnap);
+img3_andor = nd2read(filepath3_andor);
+img3_coolsnap= nd2read(filepath3_coolsnap);
+img4_andor = nd2read(filepath4_andor);
+img4_coolsnap= nd2read(filepath4_coolsnap);
+img5_andor = nd2read(filepath5_andor);
+img5_coolsnap= nd2read(filepath5_coolsnap);
+img6_andor = nd2read(filepath6_andor);
+img6_coolsnap= nd2read(filepath6_coolsnap);
+
+figure; imagesc(img1_andor); colorbar; title('Andor Exp1');
+figure; imagesc(img1_coolsnap); colorbar; title('Coolsnap Exp1');
+figure; imagesc(img2_andor); colorbar; title('Andor Exp2');
+figure; imagesc(img2_coolsnap); colorbar; title('Coolsnap Exp2');
+figure; imagesc(img3_andor); colorbar; title('Andor Exp3');
+figure; imagesc(img3_coolsnap); colorbar; title('Coolsnap Exp3');
+figure; imagesc(img4_andor); colorbar; title('Andor Exp4');
+figure; imagesc(img4_coolsnap); colorbar; title('Coolsnap Exp4');
+figure; imagesc(img5_andor); colorbar; title('Andor Exp5');
+figure; imagesc(img5_coolsnap); colorbar; title('Coolsnap Exp5');
+figure; imagesc(img6_andor); colorbar; title('Andor Exp6');
+figure; imagesc(img6_coolsnap); colorbar; title('Coolsnap Exp6');
